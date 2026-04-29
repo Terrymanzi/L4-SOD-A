@@ -1,0 +1,145 @@
+# Assignment: My Daily Life in JavaScript
+
+## Objective
+
+Practice:
+- JavaScript variables and data types
+- Basic calculations
+- Console output
+- Git and GitHub workflow (init, commit, push)
+
+---
+
+## Task Description
+
+Create a JavaScript file called:
+
+```
+
+dailyLife.js
+
+```
+
+In this file, write a program that describes your daily life using variables and simple calculations.
+
+---
+
+## Part 1: Variables and Data Types
+
+Declare the following variables:
+- Your name (string)
+- Your age (number)
+- Your favorite food (string)
+- Number of hours you study per day (number)
+
+---
+
+## Part 2: Simple Calculations
+
+1. Calculate how many hours you study in a week
+2. Calculate your age in months
+
+---
+
+## Part 3: Output
+
+Use `console.log()` to print a summary like this:
+
+```
+
+Hello, my name is John.
+I am 20 years old.
+I love eating pizza.
+I study 3 hours per day, which is 21 hours per week.
+I am 240 months old.
+
+```
+
+---
+
+## Bonus (Optional)
+
+- Convert your age into "dog years"
+- Add a boolean variable like `isStudent` and print it
+
+---
+
+## Git and GitHub Requirements
+
+### Step 1: Create a Project Folder
+
+Name it:
+
+```
+
+js-daily-life
+
+````
+
+---
+
+### Step 2: Initialize Git
+
+Run:
+
+```bash
+git init
+````
+
+---
+
+### Step 3: Add Your File
+
+```bash
+git add dailyLife.js
+```
+
+---
+
+### Step 4: Commit Your Work
+
+```bash
+git commit -m "Add daily life JavaScript program"
+```
+
+---
+
+### Step 5: Push to GitHub
+
+1. Create a new repository on GitHub called:
+
+```
+js-daily-life
+```
+
+2. Link your local repository:
+
+```bash
+git remote add origin https://github.com/your-username/js-daily-life.git
+```
+
+3. Push your code:
+
+```bash
+git push -u origin main
+```
+
+---
+
+## Submission
+
+Submit:
+
+* Your GitHub repository link
+
+---
+
+## Marking Criteria
+
+* Correct use of variables (4 marks)
+* Correct calculations (4 marks)
+* Proper console output (4 marks)
+* GitHub repository submitted correctly (4 marks)
+* Clean and readable code (4 marks)
+
+Total: 20 marks
