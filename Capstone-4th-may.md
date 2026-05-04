@@ -1,5 +1,12 @@
 # Capstone Project: Real-Time Chat Application
 
+## Resources to use:
+
+- Websockets.io video Series: https://www.youtube.com/watch?v=RUL9yTzOTuU&list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No
+- Nodejs Crash Course: https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+- Designs:
+  - [Sample interface]()
+
 ## Project Overview
 
 You will work in teams to design and build a **real-time chat application** using **Node.js, Express.js, and Socket.io**.
