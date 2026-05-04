@@ -1,7 +1,3 @@
-Here’s a tailored version of your rubric for a **real-time chat application capstone** using Node.js, Express, and Socket.io—adapted to fit the same structure, expectations, and 3-day timeline.
-
----
-
 # Capstone Project: Real-Time Chat Application
 
 ## Project Overview
