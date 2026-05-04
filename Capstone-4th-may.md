@@ -4,8 +4,7 @@
 
 - Websockets.io video Series: https://www.youtube.com/watch?v=RUL9yTzOTuU&list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No
 - Nodejs Crash Course: https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
-- Designs: ![Sample interface](<img width="653" height="894" alt="image" src="https://github.com/user-attachments/assets/f1da57d3-86cc-49c5-a96c-37b14e37ee0d" />
-)
+- [Sample interface](<img width="653" height="894" alt="image" src="https://github.com/user-attachments/assets/f1da57d3-86cc-49c5-a96c-37b14e37ee0d" />)
 
 ## Project Overview
 
