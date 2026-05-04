@@ -1,6 +1,6 @@
 # Capstone Project: Real-Time Chat Application
-
-![Sample UI](<img width="653" height="894" alt="image" src="https://github.com/user-attachments/assets/dced8cf2-d8cf-4016-bf4f-0726cd43a9cf" />)
+[](<img width="653" height="894" alt="image" src="https://github.com/user-attachments/assets/7e19c612-cffc-4c20-9f73-c71957bddae4" />
+)
 
 ## Resources to use:
 
