@@ -160,3 +160,11 @@ Each group must submit:
 - Keep socket logic **simple and clear**
 - Commit frequently on GitHub
 - Prioritize **working real-time communication over fancy UI**
+
+---
+
+## Submission
+
+Submit your Capstone project using the link below:
+
+https://forms.gle/GRLVZTXBCaq83r3VA
